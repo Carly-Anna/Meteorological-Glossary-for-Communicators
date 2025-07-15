@@ -6,10 +6,11 @@
 
 Select a glossary section to explore:
 
-- [A–F](glossary-A-F.md)
-- [G–I](glossary-G-I.md)
-- [J–L](glossary-J-L.md)
-- [M–O](glossary-M-O.md)
-- [P–R](glossary-P-R.md)
-- [S–U](glossary-S-U.md)
+- [A–C](glossary-a-c.md)
+- [D-F](glossary-d-f.md)
+- [G-I](glossary-g-i.md)
+- [J-L](glossary-j-l.md)
+- [M-O](glossary-m-o.md)
+- [P-R](glossary-p-r.md)
+- [S-U](glossary-s-u.md)
 - [V–Z](glossary-V-Z.md)
