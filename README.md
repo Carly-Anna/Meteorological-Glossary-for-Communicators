@@ -16,4 +16,6 @@ Click on the links below to jump directly to the glossary segment you want:
 - [V–Z](docs/glossary-V-Z.md)
 
 ---
+### Example PDF
+![PDF Alt](./assets/Meteo.png)
 
